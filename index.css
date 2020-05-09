@@ -19,9 +19,8 @@ body {
 
 /* add the .bigItem class */
 .bigItem {
-  grid-area: 2/2/4/4;
-  display: flex;
-  width: 100vw;
-  height: 100vh;
-  justify-self: center;
+  grid-area: 2 / 2 / 4 / 4;
+ height: 50%;
+ width: 50%;
+ justify-self: center;
 }
